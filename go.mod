@@ -1,3 +1,3 @@
-module github.com/loikein/hugo-tufte
+module github.com/anarchivist/hugo-tufte
 
 go 1.17
